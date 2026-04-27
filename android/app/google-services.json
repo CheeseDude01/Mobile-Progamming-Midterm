@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17812408590",
+    "project_id": "midterm-37c26",
+    "storage_bucket": "midterm-37c26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17812408590:android:e82e0ff3007dae4449af5f",
+        "android_client_info": {
+          "package_name": "com.example.midterm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdjEW2Zh3sdksb6Ogmw529vKsd2W4Yolw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
