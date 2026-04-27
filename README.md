@@ -1,6 +1,11 @@
 # midterm
 
+| Name           | NRP        | 
+| ---            | ---        | 
+| Alfa Radithya Fanany | 5025231008 |
+
 Midterm Mobile Programming project, a Manga Review App
+Demo Video: https://drive.google.com/file/d/1ZawEC1QIfYe-3AFciQCNO8-EejtnHDZY/view?usp=sharing
 
 ## Getting Started
 
